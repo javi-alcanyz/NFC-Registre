@@ -1,0 +1,1 @@
+Llibreries Python: https://realpython.com/python-sql-libraries/
