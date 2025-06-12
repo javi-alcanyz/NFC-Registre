@@ -7,6 +7,7 @@ El projecte està dissenyat com un Aprenentatge-Servici (APS) que permet als est
 A través d'esta experiència pràctica, els estudiants desenrotllaran habilitats tècniques mentres responen a una necessitat social concreta, millorant l'accessibilitat de dades digitals a sistemes de control.
 
 PARTICIÀCIÓ EN EL TREBALL
+
 Aquest projecte ha estat realitzat de forma conjunta per Javier Alcañiz i Amparo Frígola.
 Ambdós participants han col·laborat de manera equitativa en totes les fases del projecte des de la planificación, desenvolupament i redacción dels continguts del treball exposat a aquest GitHub. Totes les decisions importants s'han pres de manera consensuada i la càrrega de treball ha estat repartida de manera equilibrada.
 Per tant, es pot afirmar que la contribución dels dos membres ha sigut igualitària i essencial per a l'èxit del treball.
